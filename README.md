@@ -1,4 +1,4 @@
-# front-crud
+# crud-front
 
 ## Project setup
 ```
